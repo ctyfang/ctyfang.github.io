@@ -3,7 +3,7 @@ title: Carter
 subtitle: Fang
 email: cafang@ethz.ch
 description: Robotics and Life-Updates
-baseurl: "/homepage" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 # baseurl: /PROJECT
 url: http://ctyfang.github.io
 url: # the base hostname & protocol for your site
