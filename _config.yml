@@ -37,9 +37,9 @@ markdown: kramdown
 sass:
   style: compressed
 
+exclude: [vendor]
 exclude:
 - "*.gemspec"
 - LICENSE.md
 - CONTRIBUTING.md
-- README.md 
-- [vendor]
+- README.md
