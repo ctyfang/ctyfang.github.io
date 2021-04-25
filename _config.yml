@@ -4,6 +4,8 @@ subtitle: Fang
 email: cafang@ethz.ch
 description: Robotics and Life-Updates
 baseurl: "/homepage" # the subpath of your site, e.g. /blog
+# baseurl: /PROJECT
+url: http://ctyfang.github.io
 url: # the base hostname & protocol for your site
 author: Carter Fang
 # street_address: 1234 Somewhere Road
