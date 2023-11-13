@@ -6,7 +6,7 @@ description: Open Source Contributions
 nav: true
 nav_order: 3
 ---
-
+<!-- 
 ## GitHub users
 
 {% if site.data.repositories.github_users %}
@@ -31,7 +31,7 @@ nav_order: 3
 
 {% endfor %}
 {% endif %}
-{% endif %}
+{% endif %} -->
 
 ## GitHub Repositories
 
