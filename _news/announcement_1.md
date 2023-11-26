@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I moved to San Francisco to join Waabi and work on autonomous trucking!
+I moved to San Francisco to join Waabi and work on autonomous trucking! I'll be staying in the beautiful North Beach area if anyone would like to connect.
